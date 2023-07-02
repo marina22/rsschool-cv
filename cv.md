@@ -12,7 +12,22 @@
 i want to learn and grow this field. i am very outgoing and really get along with people. After 3 years of expensive in the service industry, i have no problem establishing instant rapportband actively clients.
 
 ### _Skills_
+* HTML
+* CSS
+* Pfotoshop
+* GIT
+
+### _Education_
+* _Ukrainian National Technical University_
+* _Udemy_
   
+   HTML/CSS
+ ## Languages
+ * Englis (A1)
+ * Russian
+ * Ukrainian
+  
+
 
 
 
