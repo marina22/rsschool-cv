@@ -125,3 +125,7 @@ p{
     text-transform: uppercase;
     font-weight: 800;
 }
+
+.footer_img{
+    height: 100px;
+}
